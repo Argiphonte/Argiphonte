@@ -1,8 +1,8 @@
 ## Data Science bootcamp @Le Wagon Montréal, ended *2022/03/19*
  
-### Come check out our ending session project
+### Come check out our ending session project using data vizualisation, API scraping, Natural Language Processing algorithms, and the Google Cloud Platform suite
 
-https://hooked-on-recruiting.herokuapp.com/
+### https://hooked-on-recruiting.herokuapp.com/
 
 ### **Languages and Tools**
 

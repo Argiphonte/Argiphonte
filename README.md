@@ -26,7 +26,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Argiphonte&theme=dark)
 
-### **A snake feeding on my commits**
+### **A snake, feeding on my commits**
 
 ![snake gif](https://github.com/Argiphonte/Argiphonte/blob/output/github-contribution-grid-snake.svg)
 

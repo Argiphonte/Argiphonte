@@ -5,9 +5,9 @@
  
 ### Come check out our ending session project using API scraping and building, Data Vizualisation, Natural Language Processing algorithms, and the Google Cloud Platform suite.
 
-### You can see a synthesis of the project : https://troopl.com/tbarnouw
+### You can see a synthesis of the project [there](https://troopl.com/tbarnouw)
 
-### Or you can even try the app : https://hooked-on-recruiting.herokuapp.com/
+### Or you can even try the app [here](https://hooked-on-recruiting.herokuapp.com/)
 
 ## **Languages and Tools**
 

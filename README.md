@@ -1,4 +1,4 @@
-<h1 align="center">Hi <a href="https://www.linkedin.com/in/thibault-barnouw-mandouit/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="8px"></a> </h1> 
+<h1 align="center">Hi <a href="https://www.linkedin.com/in/thibault-barnouw-mandouit/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"></a> </h1> 
 
 
 ## Data Science bootcamp [@Le Wagon Montréal](https://info.lewagon.com/montreal-coding-bootcamps?utm_term=le%20wagon%20montreal&utm_campaign=Le+Wagon+CA+EN+-+Octopulse&utm_source=adwords&utm_medium=ppc&hsa_acc=6194767241&hsa_cam=12013044939&hsa_grp=118653030940&hsa_ad=498941241963&hsa_src=g&hsa_tgt=kwd-651854484945&hsa_kw=le%20wagon%20montreal&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjw29CRBhCUARIsAOboZbJIA2MrdM0Nrd_4mvRo1O9iHuIebmHKGLGzGm4Qj10v7_MHs2P4oSwaAqgcEALw_wcB), ended *2022/03/19*

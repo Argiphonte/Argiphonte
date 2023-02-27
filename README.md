@@ -3,7 +3,7 @@
 
 ## I am a Data Analyst 
  
-### I have been busy analysing several datasets from the e-commerce and health sectors. You can see a synthesis of some projects [there](https://troopl.com/tbarnouw) on my troopl portfolio. 
+### I have been busy analysing several datasets from the e-commerce and health sectors. You can see a synthesis of one of these projects [here](https://troopl.com/tbarnouw) on my troopl portfolio. 
 
 ## Languages and Tools
 

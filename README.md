@@ -1,7 +1,7 @@
 <h1 align="center">Hi, and welcome on my Github <a href="https://www.linkedin.com/in/thibault-barnouw-mandouit/">👋<img width="15px"></a></h1> 
 
 
-## Data Analyst 
+## I am a Data Analyst 
  
 ### I have been busy analysing several datasets from the e-commerce and health sectors. You can see a synthesis of some projects [there](https://troopl.com/tbarnouw) on my troopl portfolio. 
 

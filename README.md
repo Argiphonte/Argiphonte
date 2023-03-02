@@ -3,7 +3,7 @@
 
 ## Data Analyst 
  
-### I have been busy analysing several datasets from the e-commerce and health sectors. You can see a synthesis of one of these projects [here](https://troopl.com/tbarnouw) on my troopl portfolio and you can have fun seeing most of my work here on GitHub. 
+### I have been busy analysing several datasets from the e-commerce and health sectors. You can see a synthesis of one of these projects [here](https://argiphonte.github.io/ThibaultDataAnalyst.github.io/) on my personal portfolio. 
 
 ## Languages and Tools
 

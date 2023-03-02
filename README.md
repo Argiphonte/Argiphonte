@@ -1,4 +1,4 @@
-<h1 align="center">Hi, and welcome on my Github <a href="https://www.linkedin.com/in/thibault-barnouw-mandouit/">👋<img width="15px"></a></h1> 
+<h1 align="center">Hi, and welcome on my GitHub <a href="https://www.linkedin.com/in/thibault-barnouw-mandouit/">👋<img width="15px"></a></h1> 
 
 
 ## Data Analyst 

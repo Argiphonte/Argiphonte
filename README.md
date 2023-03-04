@@ -3,7 +3,7 @@
 
 ## Data Analyst 
  
-### I have been busy analysing several datasets from the e-commerce and health sectors. You can see these projects [here](https://argiphonte.github.io/ThibaultDataAnalyst.github.io/) on my personal portfolio. Feel free to download the code and see by yourself how they look. :slightly_smiling_face:
+### I have been busy analysing several datasets from the e-commerce and health sectors. You can see these projects [here](https://argiphonte.github.io/ThibaultDataAnalyst.github.io/) on my personal portfolio. Feel free to download the code and see by yourself how they look :slightly_smiling_face:
 
 ## Languages and Tools
 

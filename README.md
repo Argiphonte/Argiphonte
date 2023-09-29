@@ -1,7 +1,7 @@
 <h1 align="center">Hi, and welcome on my GitHub <a href="https://www.linkedin.com/in/thibault-barnouw-mandouit/">👋<img width="15px"></a></h1> 
 
 
-## Data Analyst Consultant
+## Data & Business Analyst
 
 ### I have been busy analysing several datasets from the e-commerce and health sectors. You can see these projects [here](https://argiphonte.github.io/ThibaultDataAnalyst.github.io/) on my personal portfolio. Feel free to download the code and see by yourself how they look :slightly_smiling_face:
 
